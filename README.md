@@ -1,5 +1,3 @@
-# CodeAlpha_LanguageTranslator
-
 🌍 Language Translator Pro
 
 A lightweight **Python Tkinter application** that translates text between various languages.  
